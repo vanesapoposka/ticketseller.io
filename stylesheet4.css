@@ -1,0 +1,219 @@
+body{
+    font-family: Bahnschrift;
+}
+header{
+    background-color: white;
+}
+header h1{
+    font-size: 80px;
+    text-transform: lowercase;
+    font-family:Arial;
+    font-style: italic;
+}
+header span{
+    font-style: normal;
+}
+.body{
+    background-color: black;
+    height: 300px;
+}
+header span{
+    color: #0068F5;
+}
+.navigationBar ul{
+    padding-top: 20px;
+    margin-left: -35px;
+}
+.navigationBar li{
+    display: inline;
+    font-size: 35px;
+}
+.navigationBar li:first-of-type{
+}
+.navigationBar ul:last-of-type{
+    float: right;
+    margin-top: -80px;
+    margin-right: -95px;
+}
+li{
+    color:white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 15px;
+}
+li:hover{
+    background-color: #0068F5;
+    padding: 15px;
+}
+header img{
+    border-radius: 1500px;
+    width: 100px;
+    float: right;
+    position: relative;
+    top:-130px;
+    right: 50px;
+}
+.block img{
+    width: 100%;
+    margin-top: -13px;
+}
+.popular{
+    margin-left: 100px;
+    height: 1500px;
+    padding: 0 100px;
+    width: 2700px;
+    padding-top: 100px;
+}
+.popular img{
+    width: 640px;
+    height: 427px;
+}
+.element{
+    background-color: white;
+    width: 640px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.popular .heading{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.element:hover{
+    box-shadow: #003584;
+}
+.element:nth-of-type(n):hover{
+    background-color: rgba(0,104,245,0.2);
+}
+.popular h2{
+    color: gray;
+}
+.body{
+}
+.popular{
+
+}
+.container{
+    background-color: white;
+    width: 100%;
+    height: 1500px;
+}
+header h1:hover{
+    background-color:rgba(0,104,245,0.2);
+    width: 450px;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    color:white;
+}
+footer p{
+    font-size: 35px;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+footer sup{
+    text-transform: uppercase;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+.images{
+    width: 400px;
+    float: right;
+    margin-right: 80px;
+    margin-top: -80px;
+}
+.element h1{
+    color: black;
+}
+.images div:first-of-type img{
+    width: 100px;
+}
+.images div:nth-of-type(2) img{
+    width: 80px;
+    margin-left: 140px;
+    margin-top: -120px;
+    position: relative;
+    bottom: 20px;
+}
+.images div:last-of-type img{
+    width: 80px;
+    margin-left: 250px;
+    margin-top: -140px;
+    position: relative;
+    bottom: 40px;
+}
+header h1{
+    color: black;
+}
+.naslov{
+    background-color: red;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: -500px;
+}
+.popular li{
+    color: black;
+    display: inline;
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin:0 2px;
+}
+.popular ul{
+    margin-left: -40px;
+}
+.popular li:hover{
+    color: white;
+    background-color: black;
+}
+.popular li:hover a{
+    color: white;
+}
+.popular a{
+    color: black;
+}
+.popular li:nth-of-type(2){
+    background-color: black;
+    color:white;
+}
+.popular li:nth-of-type(2) a{
+    color: white;
+}
+.choice{
+    font-size: 40px;
+}
+.rock{
+    font-size: 150px;
+    margin-left: 45%;
+    color: white;
+    font-style: italic;
+    margin-top: -2000px;
+}
+.rock h1{
+    text-shadow: black;
+}
+.navigationBar ul:first-of-type li{
+    position: relative;
+    top:-8px;
+}
+.navigationBar ul:first-of-type{
+    position: relative;
+    right:5px;
+}
+.navigationBar ul:last-of-type{
+    position: relative;
+    left: 5px;
+}
+.navigationBar ul:last-of-type li{
+    position: relative;
+    top:-6px;
+}
+.block{
+    position: relative;
+    top:-12px;
+}
